@@ -10,6 +10,7 @@ M.D.-Certifications
 ├── Cybersecurity-Certifications
 │   ├── GoogleCertified_Certifications - [Michael D.].pdf
 │   └── MicrosoftCertified_Certifications - [Michael D.].pdf
+│   ├── OracleCertified_Certifications - [Michael D.].pdf
 ├── Cloud-Infrastructure-and-Systems-Certifications
 │   ├── Advisera_ISO27001_Certificate - [Michael D.].pdf
 │   ├── CITICompletion_Certificates - [Michael D.].pdf
